@@ -9,6 +9,8 @@
         "convert.h": "c"
     },
     "cSpell.words": [
-        "gpioc"
+        "gpioc",
+        "stm",
+        "vldiscovery"
     ]
 }
